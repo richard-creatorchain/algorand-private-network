@@ -1,0 +1,7 @@
+{
+  "Version": 14,
+  "GossipFanout": 2,
+  "NetAddress": ":4161",
+  "DNSBootstrapID": "",
+  "EnableProfiler": true
+}
