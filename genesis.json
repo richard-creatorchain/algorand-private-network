@@ -17,27 +17,34 @@
       }
     },
     {
-      "addr": "MADSFSIWEGIPMS53C7AXIPAGQGBQL2DGPJIMFARDOJPDXY4BIZMV3QJNA4",
+      "addr": "MVYXHKNAOAHY3A37FYMXXTP5Z5XUE5U2D5JFEWNCXWYAZWCGTWBKDZ2AVM",
       "comment": "Wallet1",
       "state": {
         "algo": 300000000000000,
         "onl": 1,
-        "sel": "DeQg5UWWxQeOleZbbJ+qjPtH+JRJbePLPEoagfR7Z8E=",
-        "vote": "YB8KyFJxz1F245viJAsIeJhhNKjHtTwevFstI7Tkudg=",
+        "sel": "DU5tZXjvp/s+6SkWDjg6JBJbUkGSCM51+4KJGEYqkxE=",
+        "vote": "QBfi5goC6HwMhK6sMeSjITzSXooUxWoTVpfCClsCBP8=",
         "voteKD": 10000,
         "voteLst": 10000000
       }
     },
     {
-      "addr": "7G6Q746DX5UE7T7RGJLLYA7BZ7OBAUGW64QCABZHGAME7O6MKHO6VFHM6I",
+      "addr": "6QEPMIGFHK36BJMCNC24NFYRFWRQUCCKMELM56ETOMREHSDRCUHXGOZUQE",
       "comment": "Wallet2",
       "state": {
         "algo": 500000000000000,
         "onl": 1,
-        "sel": "unBC7MIppBkZ1mj58paFPw24P47zBlFbOydKV+5ZUA0=",
-        "vote": "y1sgNGvZJo7AF9QKl/wxCmCPxKvDsRCMnCQRPoakWf8=",
+        "sel": "gGgSOV4jgl5mYMOAfmJaYv0gpJLjQLat3x7vAL6CX+g=",
+        "vote": "chFdK2752N6zcwjZTuVAbs/xKwNrbPP2l9itRwC9Ct0=",
         "voteKD": 10000,
         "voteLst": 10000000
+      }
+    },
+    {
+      "addr": "QLZFFWVBMADOES7J5XXIJRGUERJQRW3PDKMIZODCU4KM4VEZEEWNHCU2ZA",
+      "comment": "bank",
+      "state": {
+        "algo": 50000000000000
       }
     }
   ],
